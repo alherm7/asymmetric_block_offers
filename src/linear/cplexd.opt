@@ -1,0 +1,23 @@
+*threads 24
+*fpheur 2
+*userheurfirst    20
+*userheurfreq     5
+*userheurinterval 50
+*rinsheur 20
+*lbheur 1
+*liftprojcuts 2
+*heurfreq 20
+bendersstrategy 1
+variable.BendersPartition 1
+v.BendersPartition 0
+rup.BendersPartition 0
+rdn.BendersPartition 0
+pup.BendersPartition 1
+pdn.BendersPartition 1
+sup.BendersPartition 1
+
+
+y_up.BendersPartition 1
+y_dn.BendersPartition 1
+p_inj.BendersPartition 1
+
