@@ -1,2 +1,5 @@
 # asymmetric_block_offers
-Online appendix for IEEE PES transaction paper on congestion management using asymmetric block offers.
+This is the repository for the paper in IEEE transactions on Power systems.
+https://ieeexplore.ieee.org/abstract/document/8695078
+
+You can find the online appendix for the IEEE PES transaction paper on congestion management using asymmetric block offers, as well as the source code for GAMS.
